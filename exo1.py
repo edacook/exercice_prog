@@ -1,6 +1,7 @@
+#!/usr/bin/env Python3
+
 my_name = "Elie"
-age = 0
 
-input(age)
+age = input("Ton age ? ")
 
-print my_name + " " + str(age)
+print(my_name + " " + str(age))
