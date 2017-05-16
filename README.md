@@ -12,3 +12,5 @@
 - chmod +x exo1.py
 - (ajouter #! /usr/bin/env python3)
 
+> https://www.google.fr/search?q=git%20simulator
+
