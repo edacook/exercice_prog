@@ -1,7 +1,8 @@
 #!/usr/bin/env Python3
 
-my_name = "Elie"
+# $ python3
+# >> import exo1
+# exo1.hello("Elie")
 
-age = input("Ton age ? ")
-
-print(my_name + " " + str(age))
+def hello(name):
+    print("Bonjour, " + name)
