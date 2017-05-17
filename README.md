@@ -14,3 +14,6 @@
 
 > https://www.google.fr/search?q=git%20simulator
 
+-f en force 
+-m message 
+-u remember
