@@ -6,3 +6,5 @@
 
 def hello(name):
     print("Bonjour, " + name)
+
+print "Quel est ce gros commit ?" 
