@@ -19,4 +19,4 @@
 - -u remember
 
 - -rm remove
-- -d
+- -d delete
