@@ -19,3 +19,4 @@
 - -u remember
 
 - -rm remove
+- -d
