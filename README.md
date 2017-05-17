@@ -20,3 +20,5 @@
 
 - -rm remove
 - -d delete
+
+- Penser à mettre en message sur les commit réalisés sur github
