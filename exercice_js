@@ -1,0 +1,6 @@
+func(14)
+undefined
+func = (prix, tva) => alert(prix * tva)
+(prix, tva) => alert(prix * tva)
+func(14, 20)
+
