@@ -1,16 +1,7 @@
+printCooperatorNumber = number =>
+    document.querySelector("#coop-number").innerText = number
 
+document.addEventListener("DOMContentLoaded", () => 
+    printCooperatorNumber(23)
+)
 
-
-ulWording = [
-    "Plan d'amménagements",
-    "Cartes magnétiques",
-    "Dossier ESSOR"
-]
-
-
-toLis = wording =>
-    wording.map(
-        liItem => `<li>${liItem}</li>`
-    ).join('')
-
-document.write(`<ul>${toLis(ulWording)}</ul>`)
